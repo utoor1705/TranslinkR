@@ -1,5 +1,3 @@
-***** TRANSLINK PROJECT *****
-
 library(twitteR)
 
 dsTweetsDF=twListToDF(data)
