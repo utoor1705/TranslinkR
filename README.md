@@ -1,4 +1,4 @@
-## Commencement and Disruption of TransLink Buses Metrotown Area ##
+## Commencement and Disruption of TransLink Buses in the Metrotown Area ##
 
 The obective of this project to utilize tweets obtained from Translink's Twitter page, and, by converting it into data suitable for R, give BUS ID numbers (e.g SFU 145, Metrotown 144) relative to the datetime provided by the user. The project's output are divided into 2 segments, 'disruptions' and 'starts,' which would give different values corresponding to the nature of output required by the user. 
 
